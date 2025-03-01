@@ -2,7 +2,7 @@
 
  **SimpleRes** is a lightweight python app utilising the System Tray and win32 api to change your resolution 
 
->⚠️ Currently this only work for **Windows**
+>⚠️ Currently this only works for **Windows**
 
 ## Get started 
 ### First Clone or Download the repository
@@ -28,4 +28,4 @@ I play a fair amount of counter strike, Aprox 1500 hours and in counter strike t
 If you have an issue and want to get it fixed please open a *Issue* in the **issues** tab
 and if you find a issue and want to take matters into your own hands be sure to open a **Pull Request**
 
-### Dont forget to ⭐ if you found it usefull 🙂
+### Dont forget to ⭐ if you found it useful 🙂
