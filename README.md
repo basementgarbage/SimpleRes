@@ -21,6 +21,7 @@ use install script.
 	
     install.bat
 
+*psssttt. little tip add a shortcut of app.pyw to shell:startup*
 ## But why?
 I play a fair amount of counter strike, Aprox 1500 hours and in counter strike there is a glitch when alt tabbing on streched resolution set by the **game** it resets back to what your current **computer** resolution is and this is very annoying. instead of opening *NVIDIA CONTROL PANEL* and changing my resolution every single time i want to play i can now use SimpleRes. this also goes for other games such as Fortnite, Valorant, ect which ive had issues in the past before with, especially Fortnite.
 
